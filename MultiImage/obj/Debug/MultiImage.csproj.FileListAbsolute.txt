@@ -1,0 +1,11 @@
+C:\Users\theod\source\repos\MultiImage\MultiImage\bin\Debug\MultiImage.exe.config
+C:\Users\theod\source\repos\MultiImage\MultiImage\bin\Debug\MultiImage.exe
+C:\Users\theod\source\repos\MultiImage\MultiImage\bin\Debug\MultiImage.pdb
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.csproj.AssemblyReference.cache
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.Form1.resources
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.Properties.Resources.resources
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.csproj.GenerateResource.cache
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.csproj.CoreCompileInputs.cache
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.exe
+C:\Users\theod\source\repos\MultiImage\MultiImage\obj\Debug\MultiImage.pdb
